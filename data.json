@@ -13,7 +13,7 @@
   "positionName": "Director General ",
   "children": [
     {
-      "name": "Davolio Nancy",
+      "name": "Gurtin Eric",
       "imageUrl": "https://github.com/ashwindhakal/orgchart/blob/main/infc.png",
       "area": "Corporate",
       "profileUrl": "http://example.com/employee/profile",
@@ -37,7 +37,7 @@
           "unit": {
             "type": "department",
             "value": " CSB Department",
-            "desc":"Finance Dept description"
+            "desc":"Data Science"
           },
           "positionName": "CIO ",
           "children": [
@@ -56,7 +56,7 @@
               "positionName": "CIO ",
               "children": [
                 {
-                  "name": "Peter Wilson",
+                  "name": "vacant",
                   "isLoggedUser": false,
                   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "Corporate",
@@ -70,7 +70,7 @@
                   "positionName": "Head of channels",
                   "children": [
                     {
-                      "name": " Lars Peterson",
+                      "name": " vacant",
                       "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                       "area": "Corporate",
                       "profileUrl": "http://example.com/employee/profile",
@@ -86,7 +86,7 @@
                   ]
                 },
                 {
-                  "name": "Carlos Diaz",
+                  "name": "Gill Nitasha",
                   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                   "area": "Corporate",
                   "profileUrl": "http://example.com/employee/profile",
@@ -169,10 +169,10 @@
                                 "type": "department",
                                 "value": "CSB Department"
                               },
-                              "positionName": "Senior Android Developer",
+                              "positionName": "Analyst",
                               "children": [
                                 {
-                                  "name": " Petra Winkler",
+                                  "name": " Vacant",
                                   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                                   "area": "Corporate",
                                   "profileUrl": "http://example.com/employee/profile",
@@ -197,7 +197,7 @@
                                     "type": "department",
                                     "value": "CSB Department"
                                   },
-                                  "positionName": "Ios Developer",
+                                  "positionName": "Analyst",
                                   "size": 2023
                                 }
                               ]
@@ -214,7 +214,7 @@
                                 "type": "department",
                                 "value": "CSB Department"
                               },
-                              "positionName": "Senior Developer",
+                              "positionName": "Senior Analyst",
                               "children": [
                                 {
                                   "name": "Current User",
@@ -228,7 +228,7 @@
                                     "type": "department",
                                     "value": "CSB Department"
                                   },
-                                  "positionName": "Web Developer"
+                                  "positionName": "Analyst"
                                 },
                                 {
                                   "name": "Beate Vileid",
@@ -260,7 +260,7 @@
                             "type": "department",
                             "value": "CSB Department"
                           },
-                          "positionName": "Linear Manager"
+                          "positionName": "Analyst"
                         },
                         {
                           "name": "Peacock Margaret",
@@ -288,7 +288,7 @@
                             "type": "department",
                             "value": "CSB Department"
                           },
-                          "positionName": "Head of direction"
+                          "positionName": "Manager"
                         },
                         {
                           "name": "Suyama Michael",
@@ -302,7 +302,7 @@
                             "type": "department",
                             "value": "CSB Department"
                           },
-                          "positionName": "Senior sales manager"
+                          "positionName": "Senior  manager"
                         },
                         {
                           "name": "King Robert",
@@ -330,7 +330,7 @@
                                 "type": "department",
                                 "value": "CSB Department"
                               },
-                              "positionName": "Junior sales manager"
+                              "positionName": " manager"
                             },
                             {
                               "name": "Dodsworth Anne",
@@ -344,7 +344,7 @@
                                 "type": "department",
                                 "value": "CSB Department"
                               },
-                              "positionName": "Junior sales manager"
+                              "positionName": "Manager"
                             }
                           ]
                         },
@@ -374,7 +374,7 @@
                             "type": "department",
                             "value": "CSB Department"
                           },
-                          "positionName": "Senior Trader",
+                          "positionName": "Senior Analyst",
                           "children": [
                             {
                               "name": "Shelley Burke",
