@@ -1431,10 +1431,10 @@
                                 "type": "department",
                                 "value": "CSB Department"
                               },
-                              "positionName": "Head of direction"
+                              "positionName": "Junior Analyst"
                             },
                             {
-                              "name": "Suyama Michael",
+                              "name": "Ashwin Dhakal",
                               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                               "area": "IMIT",
                               "profileUrl": "http://example.com/employee/profile",
@@ -1445,10 +1445,10 @@
                                 "type": "department",
                                 "value": "CSB Department"
                               },
-                              "positionName": "Senior sales manager"
+                              "positionName": "Junior Analyst"
                             },
                             {
-                              "name": "King Robert",
+                              "name": "Vacant",
                               "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                               "area": "IMIT",
                               "profileUrl": "http://example.com/employee/profile",
@@ -1459,10 +1459,10 @@
                                 "type": "department",
                                 "value": "CSB Department"
                               },
-                              "positionName": "Senior Sales Manager",
+                              "positionName": "Manager",
                               "children": [
                                 {
-                                  "name": "Callahan Laura",
+                                  "name": "Vacant",
                                   "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
                                   "area": "IMIT",
                                   "profileUrl": "http://example.com/employee/profile",
@@ -1473,7 +1473,7 @@
                                     "type": "department",
                                     "value": "CSB Department"
                                   },
-                                  "positionName": "Junior sales manager"
+                                  "positionName": "Junior manager"
                                 },
                                 {
                                   "name": "Dodsworth Anne",
